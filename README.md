@@ -8,11 +8,10 @@ The **Peer Tutor Microservice** is an ML-powered FastAPI microservice that ident
 
 ## Setup Instructions
 
-1. **Clone the Repository**
+1. **Clone the Repository and Change into the Directory**
 
     ```
-    git clone https://github.com/your-username/peer-tutor-matcher.git
-    cd peer-tutor-matcher
+    git clone https://github.com/Taruna-M/Echo-Explorers-Lalitha-Taruna-Peer-Tutor-Microservice.git
     ```
 2. **Create Virtual Environment**
 
