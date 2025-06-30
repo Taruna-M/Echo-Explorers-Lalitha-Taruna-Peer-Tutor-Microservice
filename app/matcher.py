@@ -187,7 +187,7 @@ def create_matches(peer_data_list: List[Tuple[Dict, int]], probabilities: np.nda
         if features[index, 1] == 1: reasons.append('same college')
         if features[index, 3] == 1: reasons.append('same branch')
         if features[index, 4] == 1: reasons.append('same year')
-        if days_since_last_help <= 3: reasons.append('recently active ( less than 7 days )')
+        if days_since_last_help <= 7: reasons.append('recently active ( less than 7 days )')
         if karma > 80: reasons.append('high karma ( greater than 80 )')
 
         match = {
