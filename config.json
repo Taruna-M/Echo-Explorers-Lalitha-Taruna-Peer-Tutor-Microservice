@@ -1,0 +1,5 @@
+{
+    "model_threshold": 0.7,
+    "max_results": 3,
+    "max_inactive_days": 14
+}

@@ -1,0 +1,6002 @@
+[
+  {
+    "input": {
+      "karma_in_topic": 18,
+      "same_college": true,
+      "days_since_last_help": 30,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 47,
+      "same_college": true,
+      "days_since_last_help": 11,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 10,
+      "same_college": true,
+      "days_since_last_help": 26,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 11,
+      "same_college": true,
+      "days_since_last_help": 24,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 24,
+      "same_college": true,
+      "days_since_last_help": 27,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 77,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 83,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 93,
+      "same_college": true,
+      "days_since_last_help": 0,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 51,
+      "same_college": true,
+      "days_since_last_help": 12,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 74,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 74,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 95,
+      "same_college": true,
+      "days_since_last_help": 4,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 98,
+      "same_college": true,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 16,
+      "same_college": true,
+      "days_since_last_help": 16,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 87,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 56,
+      "same_college": true,
+      "days_since_last_help": 12,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 14,
+      "same_college": true,
+      "days_since_last_help": 20,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 73,
+      "same_college": true,
+      "days_since_last_help": 3,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 10,
+      "same_college": true,
+      "days_since_last_help": 29,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 73,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 82,
+      "same_college": true,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 1,
+      "same_college": true,
+      "days_since_last_help": 15,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 26,
+      "same_college": true,
+      "days_since_last_help": 19,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 30,
+      "same_college": true,
+      "days_since_last_help": 17,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 91,
+      "same_college": true,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 63,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 46,
+      "same_college": true,
+      "days_since_last_help": 15,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 68,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 93,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 57,
+      "same_college": true,
+      "days_since_last_help": 19,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 0,
+      "same_college": false,
+      "days_since_last_help": 23,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 60,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 8,
+      "same_college": true,
+      "days_since_last_help": 17,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 89,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 82,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 82,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 81,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 18,
+      "same_college": true,
+      "days_since_last_help": 24,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 17,
+      "same_college": false,
+      "days_since_last_help": 16,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 62,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 81,
+      "same_college": true,
+      "days_since_last_help": 0,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 21,
+      "same_college": true,
+      "days_since_last_help": 23,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 14,
+      "same_college": true,
+      "days_since_last_help": 19,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 61,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 3,
+      "same_college": true,
+      "days_since_last_help": 15,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 87,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 82,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 24,
+      "same_college": false,
+      "days_since_last_help": 17,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 6,
+      "same_college": true,
+      "days_since_last_help": 20,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 92,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 87,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 90,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 6,
+      "same_college": false,
+      "days_since_last_help": 18,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 52,
+      "same_college": false,
+      "days_since_last_help": 10,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 79,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 45,
+      "same_college": false,
+      "days_since_last_help": 10,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 83,
+      "same_college": true,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 19,
+      "same_college": false,
+      "days_since_last_help": 16,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 7,
+      "same_college": false,
+      "days_since_last_help": 17,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 0,
+      "same_college": false,
+      "days_since_last_help": 16,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 72,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 15,
+      "same_college": false,
+      "days_since_last_help": 30,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 30,
+      "same_college": false,
+      "days_since_last_help": 20,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 15,
+      "same_college": true,
+      "days_since_last_help": 16,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 8,
+      "same_college": true,
+      "days_since_last_help": 26,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 66,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 76,
+      "same_college": false,
+      "days_since_last_help": 4,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 73,
+      "same_college": true,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 5,
+      "same_college": false,
+      "days_since_last_help": 24,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 95,
+      "same_college": true,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 3,
+      "same_college": false,
+      "days_since_last_help": 18,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 20,
+      "same_college": false,
+      "days_since_last_help": 21,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 80,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 78,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 70,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 89,
+      "same_college": true,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 78,
+      "same_college": true,
+      "days_since_last_help": 0,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 36,
+      "same_college": false,
+      "days_since_last_help": 15,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 40,
+      "same_college": true,
+      "days_since_last_help": 14,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 25,
+      "same_college": true,
+      "days_since_last_help": 24,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 5,
+      "same_college": true,
+      "days_since_last_help": 28,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 81,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 80,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 0,
+      "same_college": true,
+      "days_since_last_help": 26,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 75,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 15,
+      "same_college": true,
+      "days_since_last_help": 26,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 92,
+      "same_college": true,
+      "days_since_last_help": 0,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 17,
+      "same_college": false,
+      "days_since_last_help": 15,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 14,
+      "same_college": false,
+      "days_since_last_help": 19,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 62,
+      "same_college": true,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 15,
+      "same_college": false,
+      "days_since_last_help": 21,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 20,
+      "same_college": false,
+      "days_since_last_help": 28,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 18,
+      "same_college": true,
+      "days_since_last_help": 27,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 20,
+      "same_college": true,
+      "days_since_last_help": 18,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 7,
+      "same_college": true,
+      "days_since_last_help": 28,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 23,
+      "same_college": true,
+      "days_since_last_help": 19,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 3,
+      "same_college": true,
+      "days_since_last_help": 29,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 7,
+      "same_college": false,
+      "days_since_last_help": 24,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 17,
+      "same_college": true,
+      "days_since_last_help": 25,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 58,
+      "same_college": false,
+      "days_since_last_help": 15,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 87,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 45,
+      "same_college": true,
+      "days_since_last_help": 20,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 22,
+      "same_college": false,
+      "days_since_last_help": 20,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 73,
+      "same_college": true,
+      "days_since_last_help": 3,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 83,
+      "same_college": false,
+      "days_since_last_help": 4,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 5,
+      "same_college": true,
+      "days_since_last_help": 25,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 70,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 85,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 25,
+      "same_college": true,
+      "days_since_last_help": 22,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 19,
+      "same_college": true,
+      "days_since_last_help": 16,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 9,
+      "same_college": true,
+      "days_since_last_help": 20,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 24,
+      "same_college": false,
+      "days_since_last_help": 30,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 77,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 40,
+      "same_college": true,
+      "days_since_last_help": 10,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 8,
+      "same_college": false,
+      "days_since_last_help": 30,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 79,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 73,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 21,
+      "same_college": false,
+      "days_since_last_help": 28,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 83,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 17,
+      "same_college": true,
+      "days_since_last_help": 15,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 22,
+      "same_college": true,
+      "days_since_last_help": 30,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 90,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 95,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 64,
+      "same_college": true,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 25,
+      "same_college": false,
+      "days_since_last_help": 28,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 5,
+      "same_college": true,
+      "days_since_last_help": 27,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 7,
+      "same_college": true,
+      "days_since_last_help": 30,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 23,
+      "same_college": false,
+      "days_since_last_help": 23,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 100,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 1,
+      "same_college": false,
+      "days_since_last_help": 15,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 73,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 73,
+      "same_college": true,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 75,
+      "same_college": true,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 85,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 67,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 69,
+      "same_college": true,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 100,
+      "same_college": true,
+      "days_since_last_help": 4,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 30,
+      "same_college": true,
+      "days_since_last_help": 13,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 79,
+      "same_college": false,
+      "days_since_last_help": 4,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 90,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 1,
+      "same_college": false,
+      "days_since_last_help": 18,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 85,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 14,
+      "same_college": false,
+      "days_since_last_help": 15,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 96,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 18,
+      "same_college": false,
+      "days_since_last_help": 19,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 0,
+      "same_college": false,
+      "days_since_last_help": 21,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 73,
+      "same_college": true,
+      "days_since_last_help": 4,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 17,
+      "same_college": true,
+      "days_since_last_help": 18,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 67,
+      "same_college": true,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 20,
+      "same_college": true,
+      "days_since_last_help": 19,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 71,
+      "same_college": true,
+      "days_since_last_help": 4,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 97,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 74,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 21,
+      "same_college": false,
+      "days_since_last_help": 25,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 98,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 13,
+      "same_college": true,
+      "days_since_last_help": 24,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 75,
+      "same_college": true,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 30,
+      "same_college": true,
+      "days_since_last_help": 13,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 82,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 87,
+      "same_college": true,
+      "days_since_last_help": 3,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 89,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 9,
+      "same_college": true,
+      "days_since_last_help": 28,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 10,
+      "same_college": true,
+      "days_since_last_help": 20,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 98,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 89,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 53,
+      "same_college": true,
+      "days_since_last_help": 15,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 48,
+      "same_college": true,
+      "days_since_last_help": 18,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 95,
+      "same_college": true,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 72,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 66,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 75,
+      "same_college": true,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 92,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 16,
+      "same_college": true,
+      "days_since_last_help": 24,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 77,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 38,
+      "same_college": false,
+      "days_since_last_help": 15,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 25,
+      "same_college": true,
+      "days_since_last_help": 15,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 82,
+      "same_college": true,
+      "days_since_last_help": 0,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 49,
+      "same_college": true,
+      "days_since_last_help": 16,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 87,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 5,
+      "same_college": true,
+      "days_since_last_help": 25,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 20,
+      "same_college": false,
+      "days_since_last_help": 18,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 27,
+      "same_college": false,
+      "days_since_last_help": 12,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 19,
+      "same_college": false,
+      "days_since_last_help": 23,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 15,
+      "same_college": true,
+      "days_since_last_help": 27,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 53,
+      "same_college": false,
+      "days_since_last_help": 13,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 85,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 9,
+      "same_college": false,
+      "days_since_last_help": 26,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 63,
+      "same_college": true,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 73,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 4,
+      "same_college": true,
+      "days_since_last_help": 27,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 75,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 81,
+      "same_college": true,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 93,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 95,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 99,
+      "same_college": true,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 41,
+      "same_college": true,
+      "days_since_last_help": 14,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 82,
+      "same_college": false,
+      "days_since_last_help": 4,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 7,
+      "same_college": true,
+      "days_since_last_help": 30,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 70,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 12,
+      "same_college": false,
+      "days_since_last_help": 27,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 29,
+      "same_college": true,
+      "days_since_last_help": 16,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 58,
+      "same_college": true,
+      "days_since_last_help": 13,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 3,
+      "same_college": false,
+      "days_since_last_help": 18,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 3,
+      "same_college": false,
+      "days_since_last_help": 30,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 87,
+      "same_college": false,
+      "days_since_last_help": 4,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 22,
+      "same_college": true,
+      "days_since_last_help": 22,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 84,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 81,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 11,
+      "same_college": true,
+      "days_since_last_help": 20,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 1,
+      "same_college": true,
+      "days_since_last_help": 26,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 21,
+      "same_college": false,
+      "days_since_last_help": 26,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 78,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 22,
+      "same_college": true,
+      "days_since_last_help": 30,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 4,
+      "same_college": false,
+      "days_since_last_help": 21,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 36,
+      "same_college": true,
+      "days_since_last_help": 17,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 72,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 22,
+      "same_college": false,
+      "days_since_last_help": 17,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 77,
+      "same_college": true,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 4,
+      "same_college": false,
+      "days_since_last_help": 29,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 82,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 18,
+      "same_college": true,
+      "days_since_last_help": 29,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 85,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 87,
+      "same_college": true,
+      "days_since_last_help": 4,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 21,
+      "same_college": true,
+      "days_since_last_help": 27,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 22,
+      "same_college": true,
+      "days_since_last_help": 29,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 92,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 0,
+      "same_college": false,
+      "days_since_last_help": 24,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 71,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 18,
+      "same_college": true,
+      "days_since_last_help": 30,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 37,
+      "same_college": false,
+      "days_since_last_help": 18,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 95,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 92,
+      "same_college": true,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 92,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 14,
+      "same_college": false,
+      "days_since_last_help": 28,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 21,
+      "same_college": true,
+      "days_since_last_help": 29,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 9,
+      "same_college": false,
+      "days_since_last_help": 23,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 29,
+      "same_college": true,
+      "days_since_last_help": 19,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 83,
+      "same_college": true,
+      "days_since_last_help": 1,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 21,
+      "same_college": true,
+      "days_since_last_help": 19,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 9,
+      "same_college": true,
+      "days_since_last_help": 30,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 11,
+      "same_college": false,
+      "days_since_last_help": 26,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 25,
+      "same_college": true,
+      "days_since_last_help": 27,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 37,
+      "same_college": true,
+      "days_since_last_help": 12,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 22,
+      "same_college": false,
+      "days_since_last_help": 28,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 18,
+      "same_college": true,
+      "days_since_last_help": 27,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 82,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 50,
+      "same_college": true,
+      "days_since_last_help": 18,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 86,
+      "same_college": false,
+      "days_since_last_help": 4,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 30,
+      "same_college": true,
+      "days_since_last_help": 15,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 78,
+      "same_college": true,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 32,
+      "same_college": false,
+      "days_since_last_help": 15,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 25,
+      "same_college": false,
+      "days_since_last_help": 21,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 25,
+      "same_college": true,
+      "days_since_last_help": 26,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 78,
+      "same_college": true,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 54,
+      "same_college": false,
+      "days_since_last_help": 17,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 97,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 37,
+      "same_college": false,
+      "days_since_last_help": 19,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 15,
+      "same_college": true,
+      "days_since_last_help": 28,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 83,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 75,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 78,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 73,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 80,
+      "same_college": true,
+      "days_since_last_help": 1,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 77,
+      "same_college": true,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 73,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 95,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 34,
+      "same_college": false,
+      "days_since_last_help": 10,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 91,
+      "same_college": true,
+      "days_since_last_help": 4,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 86,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 72,
+      "same_college": true,
+      "days_since_last_help": 3,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 15,
+      "same_college": false,
+      "days_since_last_help": 26,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 85,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 15,
+      "same_college": false,
+      "days_since_last_help": 21,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 12,
+      "same_college": true,
+      "days_since_last_help": 17,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 11,
+      "same_college": false,
+      "days_since_last_help": 21,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 69,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 9,
+      "same_college": true,
+      "days_since_last_help": 19,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 23,
+      "same_college": false,
+      "days_since_last_help": 15,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 34,
+      "same_college": false,
+      "days_since_last_help": 13,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 67,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 6,
+      "same_college": true,
+      "days_since_last_help": 26,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 69,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 92,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 76,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 71,
+      "same_college": true,
+      "days_since_last_help": 4,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 99,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 89,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 72,
+      "same_college": true,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 80,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 67,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 75,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 25,
+      "same_college": true,
+      "days_since_last_help": 28,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 54,
+      "same_college": true,
+      "days_since_last_help": 13,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 0,
+      "same_college": false,
+      "days_since_last_help": 29,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 75,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 72,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 4,
+      "same_college": true,
+      "days_since_last_help": 20,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 0,
+      "same_college": false,
+      "days_since_last_help": 23,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 95,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 9,
+      "same_college": false,
+      "days_since_last_help": 29,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 93,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 61,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 22,
+      "same_college": false,
+      "days_since_last_help": 28,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 96,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 48,
+      "same_college": false,
+      "days_since_last_help": 11,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 97,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 20,
+      "same_college": true,
+      "days_since_last_help": 19,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 95,
+      "same_college": true,
+      "days_since_last_help": 4,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 11,
+      "same_college": false,
+      "days_since_last_help": 20,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 14,
+      "same_college": false,
+      "days_since_last_help": 23,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 0,
+      "same_college": false,
+      "days_since_last_help": 25,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 49,
+      "same_college": false,
+      "days_since_last_help": 14,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 69,
+      "same_college": true,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 77,
+      "same_college": true,
+      "days_since_last_help": 1,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 97,
+      "same_college": true,
+      "days_since_last_help": 4,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 9,
+      "same_college": true,
+      "days_since_last_help": 17,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 25,
+      "same_college": true,
+      "days_since_last_help": 16,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 78,
+      "same_college": true,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 91,
+      "same_college": true,
+      "days_since_last_help": 4,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 7,
+      "same_college": true,
+      "days_since_last_help": 20,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 55,
+      "same_college": true,
+      "days_since_last_help": 10,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 48,
+      "same_college": false,
+      "days_since_last_help": 10,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 93,
+      "same_college": true,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 47,
+      "same_college": false,
+      "days_since_last_help": 11,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 6,
+      "same_college": true,
+      "days_since_last_help": 22,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 11,
+      "same_college": true,
+      "days_since_last_help": 24,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 74,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 96,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 36,
+      "same_college": true,
+      "days_since_last_help": 20,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 84,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 21,
+      "same_college": false,
+      "days_since_last_help": 27,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 93,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 62,
+      "same_college": true,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 84,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 70,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 63,
+      "same_college": true,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 23,
+      "same_college": false,
+      "days_since_last_help": 23,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 16,
+      "same_college": false,
+      "days_since_last_help": 25,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 8,
+      "same_college": true,
+      "days_since_last_help": 29,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 36,
+      "same_college": true,
+      "days_since_last_help": 17,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 10,
+      "same_college": false,
+      "days_since_last_help": 26,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 53,
+      "same_college": false,
+      "days_since_last_help": 13,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 19,
+      "same_college": false,
+      "days_since_last_help": 30,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 65,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 11,
+      "same_college": true,
+      "days_since_last_help": 25,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 76,
+      "same_college": true,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 76,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 59,
+      "same_college": false,
+      "days_since_last_help": 19,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 83,
+      "same_college": true,
+      "days_since_last_help": 4,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 99,
+      "same_college": true,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 33,
+      "same_college": true,
+      "days_since_last_help": 10,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 97,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 8,
+      "same_college": true,
+      "days_since_last_help": 30,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 0,
+      "same_college": false,
+      "days_since_last_help": 26,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 77,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 7,
+      "same_college": false,
+      "days_since_last_help": 23,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 100,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 8,
+      "same_college": false,
+      "days_since_last_help": 16,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 86,
+      "same_college": true,
+      "days_since_last_help": 0,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 63,
+      "same_college": true,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 78,
+      "same_college": true,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 39,
+      "same_college": true,
+      "days_since_last_help": 16,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 3,
+      "same_college": false,
+      "days_since_last_help": 15,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 58,
+      "same_college": false,
+      "days_since_last_help": 16,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 80,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 22,
+      "same_college": false,
+      "days_since_last_help": 23,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 1,
+      "same_college": false,
+      "days_since_last_help": 25,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 99,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 81,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 23,
+      "same_college": false,
+      "days_since_last_help": 23,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 82,
+      "same_college": true,
+      "days_since_last_help": 4,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 78,
+      "same_college": true,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 52,
+      "same_college": true,
+      "days_since_last_help": 20,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 11,
+      "same_college": true,
+      "days_since_last_help": 16,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 79,
+      "same_college": true,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 100,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 82,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 48,
+      "same_college": true,
+      "days_since_last_help": 12,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 3,
+      "same_college": false,
+      "days_since_last_help": 18,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 4,
+      "same_college": true,
+      "days_since_last_help": 24,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 31,
+      "same_college": false,
+      "days_since_last_help": 20,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 55,
+      "same_college": true,
+      "days_since_last_help": 19,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 18,
+      "same_college": true,
+      "days_since_last_help": 26,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 25,
+      "same_college": false,
+      "days_since_last_help": 20,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 21,
+      "same_college": true,
+      "days_since_last_help": 16,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 76,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 21,
+      "same_college": false,
+      "days_since_last_help": 20,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 76,
+      "same_college": true,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 6,
+      "same_college": false,
+      "days_since_last_help": 21,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 37,
+      "same_college": false,
+      "days_since_last_help": 13,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 16,
+      "same_college": true,
+      "days_since_last_help": 18,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 73,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 39,
+      "same_college": false,
+      "days_since_last_help": 15,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 96,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 41,
+      "same_college": false,
+      "days_since_last_help": 12,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 21,
+      "same_college": false,
+      "days_since_last_help": 27,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 51,
+      "same_college": true,
+      "days_since_last_help": 13,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 84,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 74,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 82,
+      "same_college": true,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 99,
+      "same_college": false,
+      "days_since_last_help": 4,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 14,
+      "same_college": false,
+      "days_since_last_help": 16,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 14,
+      "same_college": false,
+      "days_since_last_help": 23,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 71,
+      "same_college": true,
+      "days_since_last_help": 1,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 2,
+      "same_college": true,
+      "days_since_last_help": 25,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 97,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 87,
+      "same_college": false,
+      "days_since_last_help": 4,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 95,
+      "same_college": true,
+      "days_since_last_help": 4,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 7,
+      "same_college": true,
+      "days_since_last_help": 18,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 64,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 94,
+      "same_college": true,
+      "days_since_last_help": 3,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 75,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 74,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 72,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 71,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 80,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 13,
+      "same_college": false,
+      "days_since_last_help": 23,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 62,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 20,
+      "same_college": false,
+      "days_since_last_help": 20,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 29,
+      "same_college": false,
+      "days_since_last_help": 20,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 95,
+      "same_college": false,
+      "days_since_last_help": 4,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 79,
+      "same_college": true,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 25,
+      "same_college": true,
+      "days_since_last_help": 23,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 88,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 85,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 100,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 94,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 27,
+      "same_college": true,
+      "days_since_last_help": 20,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 95,
+      "same_college": false,
+      "days_since_last_help": 4,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 57,
+      "same_college": true,
+      "days_since_last_help": 17,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 72,
+      "same_college": true,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 96,
+      "same_college": true,
+      "days_since_last_help": 4,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 1,
+      "same_college": true,
+      "days_since_last_help": 18,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 62,
+      "same_college": true,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 91,
+      "same_college": true,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 8,
+      "same_college": true,
+      "days_since_last_help": 26,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 4,
+      "same_college": true,
+      "days_since_last_help": 19,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 24,
+      "same_college": false,
+      "days_since_last_help": 15,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 13,
+      "same_college": true,
+      "days_since_last_help": 15,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 82,
+      "same_college": false,
+      "days_since_last_help": 4,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 17,
+      "same_college": true,
+      "days_since_last_help": 15,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 56,
+      "same_college": false,
+      "days_since_last_help": 11,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 85,
+      "same_college": true,
+      "days_since_last_help": 4,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 73,
+      "same_college": true,
+      "days_since_last_help": 4,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 23,
+      "same_college": false,
+      "days_since_last_help": 22,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 67,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 15,
+      "same_college": true,
+      "days_since_last_help": 22,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 85,
+      "same_college": true,
+      "days_since_last_help": 0,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 7,
+      "same_college": true,
+      "days_since_last_help": 18,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 81,
+      "same_college": true,
+      "days_since_last_help": 4,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 6,
+      "same_college": true,
+      "days_since_last_help": 23,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 63,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 93,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 85,
+      "same_college": false,
+      "days_since_last_help": 4,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 79,
+      "same_college": true,
+      "days_since_last_help": 0,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 14,
+      "same_college": false,
+      "days_since_last_help": 28,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 62,
+      "same_college": true,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 89,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 87,
+      "same_college": true,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 70,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 96,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 78,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 5,
+      "same_college": true,
+      "days_since_last_help": 19,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 72,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 62,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 57,
+      "same_college": true,
+      "days_since_last_help": 18,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 29,
+      "same_college": false,
+      "days_since_last_help": 19,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 16,
+      "same_college": true,
+      "days_since_last_help": 24,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 3,
+      "same_college": true,
+      "days_since_last_help": 28,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 8,
+      "same_college": false,
+      "days_since_last_help": 24,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 64,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 23,
+      "same_college": true,
+      "days_since_last_help": 26,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 78,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 83,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 23,
+      "same_college": true,
+      "days_since_last_help": 18,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 22,
+      "same_college": false,
+      "days_since_last_help": 22,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 71,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 73,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 61,
+      "same_college": true,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 20,
+      "same_college": false,
+      "days_since_last_help": 16,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 20,
+      "same_college": true,
+      "days_since_last_help": 17,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 55,
+      "same_college": false,
+      "days_since_last_help": 10,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 92,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 32,
+      "same_college": false,
+      "days_since_last_help": 10,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 17,
+      "same_college": false,
+      "days_since_last_help": 17,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 17,
+      "same_college": false,
+      "days_since_last_help": 30,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 5,
+      "same_college": false,
+      "days_since_last_help": 25,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 75,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 54,
+      "same_college": true,
+      "days_since_last_help": 13,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 70,
+      "same_college": false,
+      "days_since_last_help": 4,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 77,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 0,
+      "same_college": true,
+      "days_since_last_help": 20,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 25,
+      "same_college": false,
+      "days_since_last_help": 23,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 94,
+      "same_college": true,
+      "days_since_last_help": 4,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 98,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 90,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 89,
+      "same_college": true,
+      "days_since_last_help": 4,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 88,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 31,
+      "same_college": true,
+      "days_since_last_help": 14,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 79,
+      "same_college": true,
+      "days_since_last_help": 4,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 27,
+      "same_college": false,
+      "days_since_last_help": 11,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 6,
+      "same_college": true,
+      "days_since_last_help": 23,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 51,
+      "same_college": true,
+      "days_since_last_help": 17,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 67,
+      "same_college": true,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 77,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 100,
+      "same_college": true,
+      "days_since_last_help": 3,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 47,
+      "same_college": true,
+      "days_since_last_help": 10,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 93,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 52,
+      "same_college": false,
+      "days_since_last_help": 14,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 32,
+      "same_college": true,
+      "days_since_last_help": 11,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 63,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 52,
+      "same_college": false,
+      "days_since_last_help": 10,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 2,
+      "same_college": false,
+      "days_since_last_help": 26,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 79,
+      "same_college": true,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 7,
+      "same_college": true,
+      "days_since_last_help": 26,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 75,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 98,
+      "same_college": false,
+      "days_since_last_help": 4,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 0,
+      "same_college": false,
+      "days_since_last_help": 16,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 37,
+      "same_college": false,
+      "days_since_last_help": 19,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 42,
+      "same_college": false,
+      "days_since_last_help": 17,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 97,
+      "same_college": true,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 15,
+      "same_college": true,
+      "days_since_last_help": 22,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 81,
+      "same_college": true,
+      "days_since_last_help": 0,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 68,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 87,
+      "same_college": true,
+      "days_since_last_help": 4,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 77,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 70,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 86,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 21,
+      "same_college": true,
+      "days_since_last_help": 27,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 28,
+      "same_college": false,
+      "days_since_last_help": 13,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 72,
+      "same_college": true,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 36,
+      "same_college": true,
+      "days_since_last_help": 14,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 72,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 75,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 19,
+      "same_college": false,
+      "days_since_last_help": 27,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 7,
+      "same_college": false,
+      "days_since_last_help": 17,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 94,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 76,
+      "same_college": true,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 21,
+      "same_college": true,
+      "days_since_last_help": 25,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 50,
+      "same_college": false,
+      "days_since_last_help": 19,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 82,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 13,
+      "same_college": true,
+      "days_since_last_help": 21,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 77,
+      "same_college": true,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 35,
+      "same_college": true,
+      "days_since_last_help": 15,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 75,
+      "same_college": false,
+      "days_since_last_help": 4,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 8,
+      "same_college": true,
+      "days_since_last_help": 17,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 63,
+      "same_college": true,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 80,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 95,
+      "same_college": true,
+      "days_since_last_help": 4,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 14,
+      "same_college": false,
+      "days_since_last_help": 18,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 34,
+      "same_college": false,
+      "days_since_last_help": 14,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 20,
+      "same_college": false,
+      "days_since_last_help": 22,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 4,
+      "same_college": false,
+      "days_since_last_help": 23,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 74,
+      "same_college": true,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 70,
+      "same_college": true,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 96,
+      "same_college": false,
+      "days_since_last_help": 4,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 8,
+      "same_college": false,
+      "days_since_last_help": 17,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 4,
+      "same_college": true,
+      "days_since_last_help": 18,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 60,
+      "same_college": true,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 92,
+      "same_college": true,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 93,
+      "same_college": true,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 0,
+      "same_college": false,
+      "days_since_last_help": 29,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 16,
+      "same_college": true,
+      "days_since_last_help": 28,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 72,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 19,
+      "same_college": true,
+      "days_since_last_help": 19,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 2,
+      "same_college": true,
+      "days_since_last_help": 16,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 8,
+      "same_college": true,
+      "days_since_last_help": 24,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 86,
+      "same_college": false,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 3,
+      "same_college": true,
+      "days_since_last_help": 22,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 69,
+      "same_college": true,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 65,
+      "same_college": true,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 16,
+      "same_college": false,
+      "days_since_last_help": 21,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 75,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 75,
+      "same_college": true,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 71,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 97,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 21,
+      "same_college": false,
+      "days_since_last_help": 19,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 95,
+      "same_college": true,
+      "days_since_last_help": 4,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 16,
+      "same_college": true,
+      "days_since_last_help": 28,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 43,
+      "same_college": true,
+      "days_since_last_help": 18,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 20,
+      "same_college": true,
+      "days_since_last_help": 25,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 50,
+      "same_college": true,
+      "days_since_last_help": 18,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 79,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 81,
+      "same_college": true,
+      "days_since_last_help": 3,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 75,
+      "same_college": true,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 11,
+      "same_college": false,
+      "days_since_last_help": 27,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 74,
+      "same_college": true,
+      "days_since_last_help": 1,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 51,
+      "same_college": false,
+      "days_since_last_help": 18,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 63,
+      "same_college": false,
+      "days_since_last_help": 0,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 87,
+      "same_college": false,
+      "days_since_last_help": 2,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 14,
+      "same_college": false,
+      "days_since_last_help": 30,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 16,
+      "same_college": false,
+      "days_since_last_help": 18,
+      "same_branch": true,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 15,
+      "same_college": false,
+      "days_since_last_help": 29,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 74,
+      "same_college": true,
+      "days_since_last_help": 4,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 75,
+      "same_college": false,
+      "days_since_last_help": 4,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 39,
+      "same_college": true,
+      "days_since_last_help": 12,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 83,
+      "same_college": true,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 1
+  },
+  {
+    "input": {
+      "karma_in_topic": 35,
+      "same_college": false,
+      "days_since_last_help": 18,
+      "same_branch": false,
+      "peer_year_match": false
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 20,
+      "same_college": true,
+      "days_since_last_help": 30,
+      "same_branch": false,
+      "peer_year_match": true
+    },
+    "label": 0
+  },
+  {
+    "input": {
+      "karma_in_topic": 72,
+      "same_college": false,
+      "days_since_last_help": 3,
+      "same_branch": true,
+      "peer_year_match": false
+    },
+    "label": 0
+  }
+]
