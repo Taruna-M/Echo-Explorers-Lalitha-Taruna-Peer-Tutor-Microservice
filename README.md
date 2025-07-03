@@ -6,6 +6,14 @@ The **Peer Tutor Microservice** is an ML-powered FastAPI microservice that ident
 
 ---
 
+## Deliverables
+
+- **main.py** can be found at the root
+- **matcher.py** can be found in app/matcher.py
+- **model.pkl** can be found in model/model.pkl
+- **config.json** can be found at root
+- **students.json** can be found in data/students.json
+
 ## Setup Instructions
 
 1. **Clone the Repository and Change into the Directory**
